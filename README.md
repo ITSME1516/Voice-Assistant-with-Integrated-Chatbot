@@ -32,4 +32,5 @@ Feel free to fork this repository and contribute by submitting pull requests. Fo
 - We can Assign any task by add a simple fuction.
 - ChatBot i Intigrated is just a sambleBot. We can Change it according to our requirements.
 - Just Traing the Bot and replace with existing bot.
+- To send whatsapp messages please add contact information in contact.csv file.
 - Its ready to go.
